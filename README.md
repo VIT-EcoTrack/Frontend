@@ -4,7 +4,7 @@ Smart Waste Management with Blockchain & AI
 
 
 
-EcoCycle Nexus is a next-generation digital platform that enhances waste management through blockchain transparency and AI-driven analytics. Our system incentivizes responsible recycling, tracks waste-to-energy conversion, and helps municipalities optimize collection processes in real-time.
+Eco Track is a next-generation digital platform that enhances waste management through blockchain transparency and AI-driven analytics. Our system incentivizes responsible recycling, tracks waste-to-energy conversion, and helps municipalities optimize collection processes in real-time.
 
 🌟 Key Features
 
@@ -126,8 +126,8 @@ MetaMask (or compatible) for blockchain wallet interactions
 
 Installation
 
-git clone https://github.com/your-repo/ecocycle-nexus.git
-cd ecocycle-nexus
+git clone https://github.com/your-repo/ecotrack.git
+cd ecotrack
 npm install
 cp .env.example .env
 npm run dev
