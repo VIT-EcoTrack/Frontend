@@ -16,6 +16,12 @@ QR-Code Integration: Unique QR-codes for waste items to ensure accurate tracking
 
 Public Ledger: Transparent and auditable records for municipal and community verification.
 
+
+<div align="center">
+<img width="1280" alt="Screenshot" src="Screenshot 2025-03-27 at 2.06.43 PM.png" />
+</div>
+
+
 🟢 EcoToken Rewards
 
 Incentivized Recycling: Earn ERC-20 EcoTokens for verified waste submissions.
@@ -24,6 +30,10 @@ Utility & Redemption: Use tokens for local discounts, eco-initiatives, or donati
 
 Polygon Network: Fast, low-cost transactions with Ethereum Layer 2 integration.
 
+<div align="center">
+<img width="1280" alt="Screenshot" src="Screenshot 2025-03-27 at 2.06.30 PM.png" />
+</div>
+
 🟢 Waste Analytics Dashboard
 
 Real-Time Visualization: Dynamic heatmaps displaying waste generation patterns.
@@ -31,6 +41,10 @@ Real-Time Visualization: Dynamic heatmaps displaying waste generation patterns.
 AI Route Optimization: Intelligent algorithms for optimizing collection truck routes.
 
 Predictive Insights: Forecasting tools to identify future waste hotspots and streamline resource allocation.
+
+<div align="center">
+<img width="1280" alt="Screenshot" src="Screenshot 2025-03-27 at 2.06.15 PM.png" />
+</div>
 
 🟢 Community Tools
 
