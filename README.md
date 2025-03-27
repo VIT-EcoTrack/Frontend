@@ -31,7 +31,7 @@ Utility & Redemption: Use tokens for local discounts, eco-initiatives, or donati
 Polygon Network: Fast, low-cost transactions with Ethereum Layer 2 integration.
 
 <div align="center">
-<img width="1280" alt="Screenshot" src="Screenshot 2025-03-27 at 2.06.30 PM.png" />
+<img width="1280" alt="Screenshot" src="https://github.com/user-attachments/assets/6cbb7fcc-2681-45a5-a0f0-8197f1209b6b" />
 </div>
 
 🟢 Waste Analytics Dashboard
@@ -43,7 +43,7 @@ AI Route Optimization: Intelligent algorithms for optimizing collection truck ro
 Predictive Insights: Forecasting tools to identify future waste hotspots and streamline resource allocation.
 
 <div align="center">
-<img width="1280" alt="Screenshot" src="Screenshot 2025-03-27 at 2.06.15 PM.png" />
+<img width="1280" alt="Screenshot" src="https://github.com/user-attachments/assets/4d269a0c-753d-48ba-a8f3-aacd5c81105a" />
 </div>
 
 🟢 Community Tools
@@ -55,7 +55,7 @@ Community Clean-Up: Support for organizing and promoting environmental clean-up 
 Educational Resources: Access to information on sustainable waste management practices.
 
 <div align="center">
-<img width="1280" alt="Screenshot" src="Screenshot 2025-03-27 at 2.05.56 PM.png" />
+<img width="1280" alt="Screenshot" src="https://github.com/user-attachments/assets/ea090504-0651-4bc5-b86b-1fa6fbfdd29e" />
 </div>
 
 🎨 Frontend Implementation
