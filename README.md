@@ -18,7 +18,7 @@ Public Ledger: Transparent and auditable records for municipal and community ver
 
 
 <div align="center">
-<img width="1280" alt="Screenshot" src="Screenshot 2025-03-27 at 2.06.43 PM.png" />
+<img width="1280" alt="Screenshot" src="https://github.com/user-attachments/assets/f67cf56f-f214-443d-83f6-4878fb8fcfc5" />
 </div>
 
 
