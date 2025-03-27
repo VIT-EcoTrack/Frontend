@@ -40,6 +40,10 @@ Community Clean-Up: Support for organizing and promoting environmental clean-up 
 
 Educational Resources: Access to information on sustainable waste management practices.
 
+<div align="center">
+<img width="1280" alt="Screenshot" src="Screenshot 2025-03-27 at 2.05.56 PM.png" />
+</div>
+
 🎨 Frontend Implementation
 
 Technologies Used
